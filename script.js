@@ -40,7 +40,15 @@ log('www');
 
 ////////////////////////////////// unit 7 /////////////////////////////////////////
 
+// let exampleStr = "Let's have fun with regular expressions!";
+// let unRegex = /.un/; // Змініть цей рядок
+// let result = unRegex.test(exampleStr);
+
 ////////////////////////////////// unit 8 /////////////////////////////////////////
+
+// let quoteSample = "Beware of bugs in the above code; I have only proved it correct, not tried it.";
+// let vowelRegex = /[aeiou]/ig; // Змініть цей рядок
+// let result = quoteSample.match(vowelRegex); // Змініть цей рядок
 
 ////////////////////////////////// unit 9 /////////////////////////////////////////
 
