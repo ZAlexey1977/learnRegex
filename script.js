@@ -52,6 +52,14 @@ log('www');
 
 ////////////////////////////////// unit 9 /////////////////////////////////////////
 
+// let quoteSample = "The quick brown fox jumps over the lazy dog.";
+// let alphabetRegex = /[a-z]/ig; // Змініть цей рядок
+// let result = quoteSample.match(alphabetRegex); // Змініть цей рядок
+
 ////////////////////////////////// unit 10 /////////////////////////////////////////
+
+// let quoteSample = "Blueberry 3.141592653s are delicious.";
+// let myRegex = /[h-s2-6]/ig; // Змініть цей рядок
+// let result = quoteSample.match(myRegex); // Змініть цей рядок
 
 ////////////////////////////////// unit 11 /////////////////////////////////////////
