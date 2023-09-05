@@ -28,7 +28,15 @@ log('www');
 
 ////////////////////////////////// unit 5 /////////////////////////////////////////
 
+// let extractStr = "Extract the word 'coding' from this string.";
+// let codingRegex = /coding/; // Змініть цей рядок
+// let result = extractStr.match(codingRegex); // Змініть цей рядок
+
 ////////////////////////////////// unit 6 /////////////////////////////////////////
+
+// let twinkleStar = "Twinkle, twinkle, little star";
+// let starRegex = /twinkle/ig; // Змініть цей рядок
+// let result = twinkleStar.match(starRegex); // Змініть цей рядок
 
 ////////////////////////////////// unit 7 /////////////////////////////////////////
 
