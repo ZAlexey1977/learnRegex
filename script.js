@@ -129,7 +129,15 @@ let log = console.log;
 
 ////////////////////////////////// unit 22 /////////////////////////////////////////
 
+// let username = "JackOfAllTrades";
+// let userCheck = /^[A-Za-z]([0-9][0-9]+|[A-Za-z]+\d*)$/; // Змініть цей рядок
+// let result = userCheck.test(username);
+
 ////////////////////////////////// unit 23 /////////////////////////////////////////
+
+// let sample = "Whitespace is important in separating words";
+// let countWhiteSpace = /\s+/g; // Змініть цей рядок
+// let result = sample.match(countWhiteSpace);
 
 ////////////////////////////////// unit 24 /////////////////////////////////////////
 
