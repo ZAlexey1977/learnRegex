@@ -195,8 +195,11 @@ let log = console.log;
 // let fixRegex = /(\w+)\s(\w+)\s(\w+)/; // Змініть цей рядок
 // let replaceText = "$3 $2 $1"; // Змініть цей рядок
 // let result = str.replace(fixRegex, replaceText);
-log(result);
-log(str);
+
 ////////////////////////////////// unit 33 /////////////////////////////////////////
+
+// let hello = "   Hello, World!  ";
+// let wsRegex = /\S\w+.*\w+.*\S/; // Змініть цей рядок
+// let result = String(hello.match(wsRegex)); // Змініть цей рядок
 
 ////////////////////////////////// unit 34 /////////////////////////////////////////
