@@ -141,7 +141,15 @@ let log = console.log;
 
 ////////////////////////////////// unit 24 /////////////////////////////////////////
 
+// let sample = "Whitespace is important in separating words";
+// let countNonWhiteSpace = /\S/g; // Змініть цей рядок
+// let result = sample.match(countNonWhiteSpace);
+
 ////////////////////////////////// unit 25 /////////////////////////////////////////
+
+// let ohStr = "Ohhh no";
+// let ohRegex = /Oh{3,6}\sno/; // Змініть цей рядок
+// let result = ohRegex.test(ohStr);
 
 ////////////////////////////////// unit 26 /////////////////////////////////////////
 
