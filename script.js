@@ -177,10 +177,26 @@ let log = console.log;
 
 ////////////////////////////////// unit 30 /////////////////////////////////////////
 
+// let myString = "Eleanor  Roosevelt";
+// let myRegex = /(Eleanor|Franklin).* Roosevelt/i; // Змініть цей рядок
+// let result = myRegex.test(myString); // Змініть цей рядок
+// // Після проходження завдання поекспериментуйте з myString, щоб поглянути як працює групування
+
 ////////////////////////////////// unit 31 /////////////////////////////////////////
+
+// let repeatNum = "100 100 100";
+// let reRegex = /^(\d+) \1 \1$/; // Змініть цей рядок
+// let result = reRegex.test(repeatNum);
+// let resultt = repeatNum.match(reRegex);
 
 ////////////////////////////////// unit 32 /////////////////////////////////////////
 
+// let str = "one two three";
+// let fixRegex = /(\w+)\s(\w+)\s(\w+)/; // Змініть цей рядок
+// let replaceText = "$3 $2 $1"; // Змініть цей рядок
+// let result = str.replace(fixRegex, replaceText);
+log(result);
+log(str);
 ////////////////////////////////// unit 33 /////////////////////////////////////////
 
 ////////////////////////////////// unit 34 /////////////////////////////////////////
